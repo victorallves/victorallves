@@ -8,7 +8,7 @@ Um pouco sobre mim ⚡
 - 👯 Curso ciência da computação
 - ⚡ Gosto de anime e alguns jogos on-line
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript 
-- 📫 contacte-me no email: viaugustoadr@gmail.com
+- 📫 E-mail : viaugustoadr@gmail.com
 
 
 
