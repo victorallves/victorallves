@@ -1,4 +1,4 @@
-### Olá, Me chamo Victor👋
+### Olá👋
 
 
 Um pouco sobre mim ⚡
