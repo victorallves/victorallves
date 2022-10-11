@@ -4,7 +4,7 @@
 Um pouco sobre mim ⚡
 
 - 🔭 Atualmente trabalho com Front-End
-- 🌱 Estou estudando Layouts Responsivos
+- 🌱 Estou estudando Bootstrap
 - 👯 Curso ciência da computação
 - ⚡ Gosto de anime e alguns jogos on-line
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript 
