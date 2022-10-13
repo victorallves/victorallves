@@ -1,13 +1,12 @@
-### Olá, Me chamo victor👋
+### Hello, My name is victor👋
 
 
-Um pouco sobre mim ⚡
+ a little bit about me ⚡
 
-- 🔭 Atualmente trabalho com Front-End
-- 🌱 Estou estudando Bootstrap
-- 👯 Curso ciência da computação
-- ⚡ Gosto de anime e alguns jogos on-line
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript 
+- 🔭 Currently working with Front-End
+- 👯 I’m studying computer science
+- ⚡ Like anime and some games online
+- 💬 ask me about: HTML, CSS, JavaScript 
 - 📫 E-mail : viaugustoadr@gmail.com
 
 
