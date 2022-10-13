@@ -5,7 +5,7 @@
 
 - 🔭 Currently working with Front-End
 - 👯 I’m studying computer science
-- ⚡ Like anime and some games online
+- ⚡ I Like anime and some games online
 - 💬 ask me about: HTML, CSS, JavaScript 
 - 📫 E-mail : viaugustoadr@gmail.com
 
