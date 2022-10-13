@@ -3,7 +3,7 @@
 
  a little bit about me ⚡
 
-- 🔭 Currently working with Front-End
+- 🔭 I’m Currently working with Front-End
 - 👯 I’m studying computer science
 - ⚡ I Like anime and some games online
 - 💬 ask me about: HTML, CSS, JavaScript 
