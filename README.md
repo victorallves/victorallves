@@ -1,4 +1,4 @@
-### Hello, My name is victor👋
+### Hello👋
 
 
  a little bit about me ⚡
