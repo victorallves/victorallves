@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/victorallves">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorallves&layout=langs_count=4&true&theme=transparent"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorallves&layout=langs_count=3&true&theme=merko"/>
 </div>
   
 
