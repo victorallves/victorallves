@@ -6,7 +6,6 @@
 - 🔭 I’m Currently working with Java
 - 👯 I’m studying computer science
 - ⚡ I Like anime and some games online
-- 💬 ask me about: HTML, CSS, Java  
 - 📫 E-mail : viaugustoadr@gmail.com
 
 
