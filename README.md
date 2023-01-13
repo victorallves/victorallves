@@ -7,13 +7,6 @@
 - 👯 I’m studying computer science
 - ⚡ I Like anime and some games online
 - 📫 E-mail : viaugustoadr@gmail.com
-
-
-
-<div align="center">
-  <a href="https://github.com/victorallves">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorallves&layout=langs_count=3&theme=graywhite"/>
-</div>
   
 
 <div style="display: inline_block"><br>
