@@ -1,6 +1,6 @@
-<img align="" alt="coding" width="300" src="https://user-images.githubusercontent.com/113953361/213626977-78121779-50a4-4cc6-be47-c87df22037ca.gif">
-
 ### Hello👋
+
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/113953361/213626977-78121779-50a4-4cc6-be47-c87df22037ca.gif">
 
  a little bit about me ⚡
 
