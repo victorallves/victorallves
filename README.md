@@ -7,8 +7,9 @@
 
  a little bit about me ⚡
 
-- 🔭 I’m Currently working with Java
-- 👯 I’m studying computer science
+- 🔭 I’m Currently working with Java.
+- 👯 I’m studying computer science.
+- 😀 I'm a full-stack developer.
 - 📫 E-mail : viaugustoadr@gmail.com
   
 
