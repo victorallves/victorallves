@@ -1,11 +1,11 @@
-### Hello👋
+<img align="" alt="coding" width="300" src="https://user-images.githubusercontent.com/113953361/213626977-78121779-50a4-4cc6-be47-c87df22037ca.gif">
 
+### Hello👋
 
  a little bit about me ⚡
 
 - 🔭 I’m Currently working with Java
 - 👯 I’m studying computer science
-- ⚡ I Like anime and some games online
 - 📫 E-mail : viaugustoadr@gmail.com
   
 
