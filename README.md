@@ -7,7 +7,7 @@
 
   About me ⚡
 
-- 🔭 I’m Currently working with docker and kubernets.
+- 🔭 I’m Currently working with cypress.
 - 👯 I’m studying computer science.
 - 😀 I'm a full-stack developer.
 - 📫 E-mail : viaugustoadr@gmail.com
