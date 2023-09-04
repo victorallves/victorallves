@@ -7,7 +7,7 @@
 
   About me ⚡
 
-- 🔭 I’m Currently working with cypress.
+- 🔭 I’m Currently working with Java and Google Cloud Plataform.
 - 👯 I’m studying computer science.
 - 😀 I'm a full-stack developer.
 - 📫 E-mail : viaugustoadr@gmail.com
