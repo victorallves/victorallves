@@ -9,7 +9,7 @@
 
 - 🔭 I’m Currently working with Robot Framework,Python and Spring.
 - 👯 I have a degree in computer science.
-- 😀 I'm a full-stack developer.
+- 😀 I'm a QA Automation.
 - 📫 E-mail : viaugustoadr@gmail.com
   
 
